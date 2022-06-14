@@ -13,24 +13,19 @@ const Testimonials = () => {
     const data = [
         {
             avatar: Avatar1,
-            name: 'Tina Shaw',
-            review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque beatae culpa dolorem error eum, expedita illo laboriosam magni mollitia perferendis provident quae quaerat quidem quod sint? Consectetur minima necessitatibus quam?'
+            name: 'Sakib Ashrof',
+            review: 'Harsh is a very Talented person and a very good Team Player really a pleasent experience to work with him and I am sure he will go so far in his career with his growing mindset'
         },
         {
             avatar: Avatar2,
-            name: 'Shatta Wale',
-            review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque beatae culpa dolorem error eum, expedita illo laboriosam magni mollitia perferendis provident quae quaerat quidem quod sint? Consectetur minima necessitatibus quam?'
+            name: 'Vikas chand',
+            review: 'Harsh proves to be an excellent collaborative developer. He is highly creative and a very easy-going person to work with. Harsh knows his stack well and his technical knowledge reflects on the excellent work he produces. Definitely recommended?'
         },
         {
             avatar: Avatar3,
-            name: 'Kwame Despite',
-            review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque beatae culpa dolorem error eum, expedita illo laboriosam magni mollitia perferendis provident quae quaerat quidem quod sint? Consectetur minima necessitatibus quam?'
+            name: 'Hafed Brahim',
+            review: 'Harsh is a competent and experienced full stack web developer with great technical and personal skills, always looking for ways to improve and learn new skills and work on it?'
         },
-        {
-            avatar: Avatar4,
-            name: 'Nana Ama McBrown',
-            review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque beatae culpa dolorem error eum, expedita illo laboriosam magni mollitia perferendis provident quae quaerat quidem quod sint? Consectetur minima necessitatibus quam?'
-        }
     ]
 
     return (

@@ -17,9 +17,8 @@ const Portfolio = () => {
                     <div className={"portfolio__item-image"}>
                         <img src={IMG1} alt={''}/>
                     </div>
-                    <h3>This is a portfolio item title</h3>
+                    <h3>InWara Inc</h3>
                     <div className={"portfolio__item-cta"}>
-                        <a href={"https://github.com"} className={'btn'} target={'_blank'}>Github</a>
                         <a href={"https://dribbble.com"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
                     </div>
                 </article>
@@ -27,27 +26,25 @@ const Portfolio = () => {
                     <div className={"portfolio__item-image"}>
                         <img src={IMG2} alt={''}/>
                     </div>
-                    <h3>This is a portfolio item title</h3>
+                    <h3>Railofy</h3>
                     <div className={"portfolio__item-cta"}>
-                        <a href={"https://github.com"} className={'btn'} target={'_blank'}>Github</a>
-                        <a href={"https://dribbble.com"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
+                        <a href={"https://www.Railofy.com"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
                     </div>
                 </article>
                 <article className={"portfolio__item"}>
                     <div className={"portfolio__item-image"}>
                         <img src={IMG3} alt={''}/>
                     </div>
-                    <h3>This is a portfolio item title</h3>
+                    <h3>Cinta MedTech</h3>
                     <div className={"portfolio__item-cta"}>
-                        <a href={"https://github.com"} className={'btn'} target={'_blank'}>Github</a>
-                        <a href={"https://dribbble.com"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
+                        <a href={"www.zury.in"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
                     </div>
                 </article>
                 <article className={"portfolio__item"}>
                     <div className={"portfolio__item-image"}>
                         <img src={IMG4} alt={''}/>
                     </div>
-                    <h3>This is a portfolio item title</h3>
+                    <h3>HomeFlix</h3>
                     <div className={"portfolio__item-cta"}>
                         <a href={"https://github.com"} className={'btn'} target={'_blank'}>Github</a>
                         <a href={"https://dribbble.com"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
@@ -57,23 +54,11 @@ const Portfolio = () => {
                     <div className={"portfolio__item-image"}>
                         <img src={IMG5} alt={''}/>
                     </div>
-                    <h3>This is a portfolio item title</h3>
+                    <h3>DocVita</h3>
                     <div className={"portfolio__item-cta"}>
-                        <a href={"https://github.com"} className={'btn'} target={'_blank'}>Github</a>
-                        <a href={"https://dribbble.com"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
+                        <a href={"www.docvita.com"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
                     </div>
                 </article>
-                <article className={"portfolio__item"}>
-                    <div className={"portfolio__item-image"}>
-                        <img src={IMG6} alt={''}/>
-                    </div>
-                    <h3>This is a portfolio item title</h3>
-                    <div className={"portfolio__item-cta"}>
-                        <a href={"https://github.com"} className={'btn'} target={'_blank'}>Github</a>
-                        <a href={"https://dribbble.com"} className={'btn btn-primary'} target={"_blank"}>Live Demo</a>
-                    </div>
-                </article>
-
             </div>
 
         </section>

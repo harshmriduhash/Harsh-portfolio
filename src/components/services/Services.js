@@ -14,23 +14,23 @@ const Services = () => {
                     <ul className={"service__list"}>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Design Driven Development.</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>React Native for cross platform development </p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Re-architecture for scale, speed and security</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Rapid prototyping and ongoing enhancements</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>From development, testing to maintenance, full-cycle react native app development services.</p>
                         </li>
                     </ul>
                 </article>
@@ -42,15 +42,15 @@ const Services = () => {
                     <ul className={"service__list"}>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Custom Web Application in Staging</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Testing and Debugging Builds</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Backend and REST API Development</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
