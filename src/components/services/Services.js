@@ -24,14 +24,6 @@ const Services = () => {
                             <BsCheck2 className={"service__list-icon"} />
                             <p>Re-architecture for scale, speed and security</p>
                         </li>
-                        <li>
-                            <BsCheck2 className={"service__list-icon"} />
-                            <p>Rapid prototyping and ongoing enhancements</p>
-                        </li>
-                        <li>
-                            <BsCheck2 className={"service__list-icon"} />
-                            <p>From development, testing to maintenance, full-cycle react native app development services.</p>
-                        </li>
                     </ul>
                 </article>
 
@@ -52,45 +44,33 @@ const Services = () => {
                             <BsCheck2 className={"service__list-icon"} />
                             <p>Backend and REST API Development</p>
                         </li>
-                        <li>
-                            <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                        </li>
-                        <li>
-                            <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                        </li>
-                        <li>
-                            <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                        </li>
                     </ul>
                 </article>
 
                 <article className={"service"}>
                     <div className={"service__head"}>
-                        <h3>Content Creation</h3>
+                        <h3>Digital Marketing</h3>
                     </div>
                     <ul className={"service__list"}>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Market Research/Copywriting.</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>SEO.</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Social Media Marketing.</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Social Media ADS.</p>
                         </li>
                         <li>
                             <BsCheck2 className={"service__list-icon"} />
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p>Google Ads and Analytics.</p>
                         </li>
                     </ul>
                 </article>
